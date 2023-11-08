@@ -9,5 +9,18 @@ html {
     background-color: greysilver;
 }
 
+.table {
+background: rgb(98, 43, 43);
+margin: 50% auto;
+height: 40vh;
+width: 40vh;
+}
 
+.game-board {
+
+}
+
+.winner-text {
+
+}
 
