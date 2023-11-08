@@ -1,7 +1,13 @@
-html {
-    border: 0;
-    padding: 0;
+/* Remember that a CSS reset is done by selecting asterisk 
+and setting padding and margin to 0. Border is not required */
+* {
     margin: 0;
-    font-size: 100%;
+    padding: 0;
 }
+
+html {
+    background-color: greysilver;
+}
+
+
 
