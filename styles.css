@@ -3,22 +3,28 @@ and setting padding and margin to 0. Border is not required */
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 html {
     background-color: greysilver;
 }
 
+body {
+    height: 100%;
+}
+
 .table {
-background: rgb(98, 43, 43);
+background: rgb(148, 105, 105);
 margin: 50% auto;
-height: 40vh;
-width: 40vh;
+height: 450px;
+width: 400px;
 }
 
 .game-board {
-
+    width: 400px;
 }
+
 
 .winner-text {
 
